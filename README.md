@@ -4,7 +4,7 @@ Libraries: Pandas, Matplotlib, Scikit-learn.
 
 ## Task 1: Exploratory Data Analysis.
 
-Using Pandas to segregate customer data based on their account number, by each month. Using Matplotlib to visualise transaction volumes and mean transaction amount/day. Also visualised mean customer balance and mean payment amount by age, with gender means included, for each month in data set.
+Using Pandas to segregate customer data based on their account number, by each month. Matplotlib to visualise transaction volumes and mean transaction amount/day. Visualised average customer balance and average payment by age, for each month in the data set.
 
 Task 2: Predictive Analytics.
 
