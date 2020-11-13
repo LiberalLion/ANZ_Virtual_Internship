@@ -1,6 +1,6 @@
 # ANZ Virtual Experience by Forage.
 
-Libraries: Pandas, Matplotlib, Seaborn, GeoPandas, Scikit-learn.
+Libraries: Numpy, Pandas, Matplotlib, Seaborn, GeoPandas, Scikit-learn.
 
 ## Task 1: Exploratory Data Analysis.
 
